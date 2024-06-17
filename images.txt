@@ -1,1 +1,1 @@
-mysql:5.7.44
+docker pull tomcat:8.5.100-jdk8
