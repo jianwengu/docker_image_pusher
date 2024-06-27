@@ -1,1 +1,1 @@
-tomcat:8.5.100-jdk8
+hlohaus789/g4f:latest
