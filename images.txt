@@ -1,1 +1,1 @@
-bitnami/pgpool:4
+gitlab/gitlab-ce:16.10.7-ce.0
